@@ -1,5 +1,5 @@
 =============================================
-MLflow: A Machine Learning Lifecycle Platform
+MLflow: A Machine Learning Lifecycle
 =============================================
 
 MLflow is a platform to streamline machine learning development, including tracking experiments, packaging code
